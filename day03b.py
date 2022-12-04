@@ -1,6 +1,4 @@
 sum = 0
-group = []
-counter = 0
 while True:
     try: a, b, c = input(), input(), input()
     except EOFError: break
