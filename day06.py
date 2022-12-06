@@ -1,5 +1,5 @@
 def marker(s, size):
-    for i, s in enumerate(a):
+    for i, _ in enumerate(a):
         if (len(set(a[i:i+size])) == size):
             return i+size
 
